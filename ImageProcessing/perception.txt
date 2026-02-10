@@ -1,0 +1,7 @@
+Lesson: it's almost impossible to get perfect data through cameras due to external influences. It's cluttered
+noisy, incomplete, distorted measurements, the degree of which depends on the quality of the camera.
+Filters and multiple sources of information (sensors) must be used to increase accuracy, but it's never 100%
+because they're trade-offs, not solutions.
+This is one of the reasons why robots aren't as trustworthy as people want them to be. They have to make 
+reliable decisions from unreliable data. They lack the common sense that humans have, but AI has the potential 
+to solve that issue.
